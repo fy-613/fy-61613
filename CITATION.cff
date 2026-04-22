@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite this software."
+title: "A Node-Observability-Aware Dual Fingerprint Greedy Matching Pursuit Method for Hierarchical Location of Harmonic Sources"
+type: software
+authors:
+  - family-names: "Qiao"
+    given-names: "Fangyu"
+repository-code: "https://github.com/fangyuqiao/fy-613"
+url: "https://github.com/fangyuqiao/fy-613"
+license: "MIT"
+version: "v1.0.0"
+date-released: 2026-04-22
