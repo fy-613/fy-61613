@@ -1,0 +1,22 @@
+{
+  "title": "A Node-Observability-Aware Dual Fingerprint Greedy Matching Pursuit Method for Hierarchical Location of Harmonic Sources",
+  "upload_type": "software",
+  "description": "Code for hierarchical location of harmonic sources using a node-observability-aware dual fingerprint greedy matching pursuit method.",
+  "creators": [
+    {
+      "name": "Qiao, Fangyu"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit-license",
+  "keywords": [
+    "harmonic source location",
+    "power quality",
+    "low observability",
+    "dual fingerprint",
+    "greedy matching pursuit",
+    "distribution network"
+  ],
+  "language": "eng",
+  "version": "v1.0.0"
+}
